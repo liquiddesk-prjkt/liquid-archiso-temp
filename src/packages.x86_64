@@ -1,7 +1,7 @@
 alsa-utils
 amd-ucode
 arch-install-scripts
-archinstall
+# archinstall
 b43-fwcutter
 base
 bind
@@ -121,3 +121,30 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+# Xorg pkgs
+xorg-server
+xorg-apps
+xorg-xinit
+xorg-xkill
+# xorg-xrdb 
+
+# Font pkgs
+adobe-source-sans-fonts
+awesome-terminal-fonts
+noto-fonts
+ttf-dejavu
+ttf-droid
+ttf-hack
+ttf-roboto
+ttf-roboto-mono
+ttf-ubuntu-font-family
+
+# GTK pkgs
+gtk2
+gtk3
+gtk4
+
+# OpenBox pkgs
+openbox
+lxappearance-obconf
