@@ -127,7 +127,25 @@ xorg-server
 xorg-apps
 xorg-xinit
 xorg-xkill
+xorg-server-utils
 # xorg-xrdb 
+
+## GPU drivers pkgs
+xf86-video-fbdev
+xf86-video-vesa
+xf86-video-intel
+xf86-video-amdgpu
+xf86-video-ati
+xf86-video-nouveau
+
+
+## VM hypervisors pkgs
+virtualbox-guest-utils
+qemu-guest-agent
+open-vm-tools
+xf86-input-vmmouse
+xf86-video-vmware
+
 
 # Font pkgs
 adobe-source-sans-fonts
